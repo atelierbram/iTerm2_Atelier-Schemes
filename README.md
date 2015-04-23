@@ -59,6 +59,10 @@ Base color for Dune is yellow, and then warm yellowish brown greyed colors for t
 ![demotiles for Dune colorscheme](http://atelierbram.github.io/syntax-highlighting/assets/img/svg/atelierschemes-demotiles-dune_1200x300.svg)
 [More info](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune)
 
+### Other Terminal Implementations
+Support for other implementations can be found in the [output-folder of the original repo](https://github.com/atelierbram/syntax-highlighting/tree/master/atelier-schemes/output).
+For example profiles for Terminal-App, Terminator and Guake.
+
 ### License
 Copyright (c) 2013 [Bram de Haan](http://atelierbramdehaan.nl/)
 Released under [MIT Licence](http://atelierbram.mit-license.org)
