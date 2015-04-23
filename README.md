@@ -1,7 +1,7 @@
 # iTerm2_Atelier-Schemes
 Serie of color-schemes that come in a light, and in a dark background version for iTerm2
 
-###AtelierSulphurpool###
+### AtelierSulphurpool
 
 ![Screenshot](screenshots/atelier-sulphurpool_dark.png)
 
@@ -9,9 +9,6 @@ Serie of color-schemes that come in a light, and in a dark background version fo
 
 For the construction of these colorschemes,  [Solarized colorscheme](http://ethanschoonover.com/solarized) stood as a model, and [Base16 Builder](https://github.com/chriskempson/base16-builder) was a building tool. Like in Solarized, the colorschemes come in a light – and in a dark background version. It’s really just variations on the same idea, but each with it’s own color-value relations, interdependent on each other and their base (background-)color, giving each colorscheme it’s own character.
 [Go to Demopage](http://atelierbram.github.io/syntax-highlighting/atelier-schemes)
-
-## [Updates](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/demo/changes-03-2015.html)
-Some of thes colorschemes have been updated; read [more about this here](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/demo/changes-03-2015.html).
 
 ## [Forest](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/forest)
 Base color for Forest is orange, and the idea is to have brownish colors for the background, not unlike a colorscheme like [“Birds of Paradise”](http://joebergantine.com/projects/color-schemes/birds-of-paradise/), but a bit muddier on the browns, less red and more greyed out, like clay.
